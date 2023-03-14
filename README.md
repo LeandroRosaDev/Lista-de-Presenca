@@ -4,7 +4,7 @@
 fazer o controle de presença e horário de chegada de seus alunos já que ela salva informações como o nome completo e a hora exata da chegada dos alunos. Nesse projeto 
 observamos integrações com APi, conceitos bem intrínsecos de reatividade e reaproveitamento da componentização com o React. e </h4>
 
-<h1><img src="./src/Readme/readme img 1.png" alt="Ranek"></h1>
+<h1><img src="./src/Readme/readme img1.png" alt="Ranek"></h1>
 <h1><img src="./src/Readme/readme img 2.png" alt="Ranek"></h1>
 
 
